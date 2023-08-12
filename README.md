@@ -1,4 +1,9 @@
 # LockVault
+
+![ alt text ](https://img.shields.io/badge/visualstudio-blueviolet?logo=visualstudio)
+![ alt text ](https://img.shields.io/badge/11-csharp-green?logo=csharp)
+![ alt text ](https://img.shields.io/badge/dotnet-slateblue?logo=dotnet)
+
 Introducing LockVault: The Epitome of Sophisticated VPN Security! 🔒🚀
 
 Crafted with C#, WPF, and .NET, LockVault fortifies your online presence. Experience unparalleled encrypted connections and absolute privacy. 🌐🔐
